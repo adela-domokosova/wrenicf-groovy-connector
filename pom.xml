@@ -83,6 +83,7 @@
     </mailingLists>
 
     <properties>
+        <sonar.organization>adela-domokosova</sonar.organization>
         <connectorPackage>org.forgerock.openicf</connectorPackage>
         <connectorClass>ScriptedConnector</connectorClass>
         <framework.compatibilityVersion>1.4</framework.compatibilityVersion>
